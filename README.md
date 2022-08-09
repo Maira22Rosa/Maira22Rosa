@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Maira22Rosa
-- Computational support analyst
+- Developer Front-End
 - Faculty of Systems Analysis and Development
 - 👀 I’m interested in books, music, programming languages and more...
 - 🌱 I’m currently learning about web services, Apis,Angular,Sass,JavaScript, Jax-RS,MongoDB and more...
