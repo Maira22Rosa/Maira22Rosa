@@ -31,5 +31,5 @@ Hey there! I'm Maira, a cheerful and ambitious guy ready to conquer the tech wor
   <a href="https://www.linkedin.com/in/maira-cavalier-a2a8201b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 ##
-  
-![LucasAlt40 github stats](https://github.com/Maira22Rosa)
+[![Maira22Rosa github stats](https://github-readme-stats.vercel.app/api?username=Maira22Rosa&theme=dark&show_icons=true&count_private=true)](https://github.com/Maira22Rosa)
+
